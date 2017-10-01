@@ -1,0 +1,28 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "mean stack tuto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athemb/meana2.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "tuto"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athemb/meana2/issues"
+  },
+  "homepage": "https://github.com/athemb/meana2#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.11.14"
+  }
+}
